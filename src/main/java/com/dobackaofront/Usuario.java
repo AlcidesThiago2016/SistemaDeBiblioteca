@@ -4,7 +4,7 @@ public class Usuario {
     private String nome;
     private Livro livroAlugado;
 
-    public Usuario(String nome, Livro livroAlugado) {
+    public Usuario(String nome) {
         this.nome = nome;
         this.livroAlugado = null;
     }
