@@ -1,7 +1,7 @@
 
 # SISTEMA DE BIBLIOTECA IMPLEMENTADO COM DICAS ATRAVES DO CANAL DO BACK AO FRONT
 
-Projeto Desenvolvido no canal do Back ao Front do YouTube, Trata-se de um sistema de BIBLIOTECA.
+Projeto Desenvolvido no canal do Back ao Front do YouTube,  Trata-se de um sistema de BIBLIOTECA.
 
 ## 🚀 Sobre mim
 Eu sou uma pessoa desenvolvedora full-stack...
